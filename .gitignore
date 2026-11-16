@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+test/
+capsule_extracted/
+*.zip
+.DS_Storerandom_test.txt
